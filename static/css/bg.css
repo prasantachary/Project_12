@@ -1,0 +1,15 @@
+
+body 
+{
+    background: linear-gradient(12deg,blue,red,white,green,lightgreen,darkgreen);
+}
+h1 
+{
+    color: black;
+    background-color: yellow;
+}
+img
+{
+    height: 800px;
+    width: 800px;
+}
